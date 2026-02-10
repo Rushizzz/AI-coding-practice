@@ -2,8 +2,8 @@
 
 ### Tasks
 
-[] understand the dot product dimensions.
-[] try it using pytorch
-[] try it using cuda (optional)
+- [ ] understand the dot product dimensions.
+- [ ] try it using pytorch
+- [ ] try it using cuda (optional)
 
 
